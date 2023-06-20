@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/yatingupta10/demo-app
-  newTag: latest
+  newTag: 151121d14fff89a34da807b048ae2eda2a0767a2
